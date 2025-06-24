@@ -59,6 +59,10 @@ body {
     margin: 0 auto;
 }
 
+img{
+    border-radius: 50px;
+}
+
 .parametro {
     background-color: var(--fundo-texto);
     border: 2px solid var(--borda);
